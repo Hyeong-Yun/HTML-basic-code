@@ -17,8 +17,8 @@
 </html>
 ```
 
-## <!DOCTYPE html>
-<!DOCTYPE html>은 html의 버전이 무엇인지를 웹 브라우저에 알려주는 역할을 하는 선언문이다.
+## "<!DOCTYPE html>"
+<em> </em>은 html의 버전이 무엇인지를 웹 브라우저에 알려주는 역할을 하는 선언문이다.
 표준 html은 html5이기 때문에 DOCTYPE 뒤에 html은 html5을 의미한다. 
 
 ## <html lang="en">
